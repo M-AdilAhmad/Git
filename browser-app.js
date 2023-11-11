@@ -86,5 +86,4 @@ formDOM.addEventListener('submit', async (e) => {
   }, 3000)
 })
 
-console.log('newFeature')
-console.log('newFeature2')
+console.log('feature_A')
